@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.62dc2021.chunk.js": "/comboApp/static/js/0.62dc2021.chunk.js",
+    "static/js/0.62dc2021.chunk.js.map": "/comboApp/static/js/0.62dc2021.chunk.js.map",
+    "main.css": "/comboApp/static/css/main.7882d16a.chunk.css",
+    "main.js": "/comboApp/static/js/main.77d4a6d1.chunk.js",
+    "main.js.map": "/comboApp/static/js/main.77d4a6d1.chunk.js.map",
+    "runtime-main.js": "/comboApp/static/js/runtime-main.5e6c4254.js",
+    "runtime-main.js.map": "/comboApp/static/js/runtime-main.5e6c4254.js.map",
+    "static/js/3.927ad8f2.chunk.js": "/comboApp/static/js/3.927ad8f2.chunk.js",
+    "static/js/3.927ad8f2.chunk.js.map": "/comboApp/static/js/3.927ad8f2.chunk.js.map",
+    "static/js/4.39d2e767.chunk.js": "/comboApp/static/js/4.39d2e767.chunk.js",
+    "static/js/4.39d2e767.chunk.js.map": "/comboApp/static/js/4.39d2e767.chunk.js.map",
+    "static/js/5.6f25f3c1.chunk.js": "/comboApp/static/js/5.6f25f3c1.chunk.js",
+    "static/js/5.6f25f3c1.chunk.js.map": "/comboApp/static/js/5.6f25f3c1.chunk.js.map",
+    "static/js/6.b0ccc743.chunk.js": "/comboApp/static/js/6.b0ccc743.chunk.js",
+    "static/js/6.b0ccc743.chunk.js.map": "/comboApp/static/js/6.b0ccc743.chunk.js.map",
+    "static/js/7.ab697aea.chunk.js": "/comboApp/static/js/7.ab697aea.chunk.js",
+    "static/js/7.ab697aea.chunk.js.map": "/comboApp/static/js/7.ab697aea.chunk.js.map",
+    "static/js/8.90c2679e.chunk.js": "/comboApp/static/js/8.90c2679e.chunk.js",
+    "static/js/8.90c2679e.chunk.js.map": "/comboApp/static/js/8.90c2679e.chunk.js.map",
+    "index.html": "/comboApp/index.html",
+    "precache-manifest.10db4c8e473dfb15f2a71f767f1f01c9.js": "/comboApp/precache-manifest.10db4c8e473dfb15f2a71f767f1f01c9.js",
+    "service-worker.js": "/comboApp/service-worker.js",
+    "static/css/main.7882d16a.chunk.css.map": "/comboApp/static/css/main.7882d16a.chunk.css.map",
+    "static/js/3.927ad8f2.chunk.js.LICENSE.txt": "/comboApp/static/js/3.927ad8f2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/comboApp/static/media/KFOmCnqEu92Fr1Mu7mxKOzY.182ee6a4.woff2",
+    "static/media/preloader.svg": "/comboApp/static/media/preloader.94251f4a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6c4254.js",
+    "static/js/3.927ad8f2.chunk.js",
+    "static/css/main.7882d16a.chunk.css",
+    "static/js/main.77d4a6d1.chunk.js"
+  ]
+}
