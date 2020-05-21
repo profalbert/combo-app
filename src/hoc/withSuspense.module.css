@@ -1,0 +1,11 @@
+.selectedPage {
+  /* font-size: 30px; */
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  height: 50vh;
+}
+
+/* .pageNumber {
+  color: red;
+} */
