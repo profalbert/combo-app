@@ -44,5 +44,34 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+
+
+    <!-- для firebase (chat) -->
+    <script src="https://www.gstatic.com/firebasejs/7.14.5/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyBqqS6EjO6OG0Lb3oVxHpt4uyY2B9t7fMY",
+        authDomain: "react-todolist-10bf5.firebaseapp.com",
+        databaseURL: "https://react-todolist-10bf5.firebaseio.com",
+        projectId: "react-todolist-10bf5",
+        storageBucket: "react-todolist-10bf5.appspot.com",
+        messagingSenderId: "263253700493",
+        appId: "1:263253700493:web:cc4785c8abfbd6e3b2d7c4"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      var database = firebase.database();
+    </script>
+    <!-- для firebase (chat) -->
+
+
+    
   </body>
 </html>

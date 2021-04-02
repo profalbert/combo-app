@@ -73,12 +73,12 @@ type chatAPITypes = {
 export const chatAPI = {
   async getChatRoom (room: number) {
     return (
-      axios.get<chatAPITypes["getChatRoom"]>(`${urlFirebase}/chat/room${room}.json`, {headers: {"Access-Control-Allow-Origin": urlFirebase}})
+      axios.get<chatAPITypes["getChatRoom"]>(`${urlFirebase}/chat/room${room}.json`)
     )
   },
   async postChatRoom (person: MessageFullPersonType) {    
     return (
-      axios.post<chatAPITypes["postChatRoom"]>(`${urlFirebase}/chat/room${person.room}.json`, person, {headers: {"Access-Control-Allow-Origin": urlFirebase}})
+      axios.post<chatAPITypes["postChatRoom"]>(`${urlFirebase}/chat/room${person.room}.json`, person)
     )
   }
 }

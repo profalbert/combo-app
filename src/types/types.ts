@@ -30,7 +30,7 @@ export type PersonType = {
   id: number | null
   firstName: string | null
   lastName: string | null
-  colorIcon: Array<number>
+  colorIcon: [number, number, number] | []
   room: number | null
   autorizatedId: number | null
 }
@@ -39,7 +39,7 @@ export type MessageFullPersonType = {
   id: number | null
   firstName: string | null
   lastName: string | null
-  colorIcon: Array<number>
+  colorIcon: [number, number, number] | []
   room: number | null
   autorizatedId: number | null
   message: string

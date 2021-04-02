@@ -2,7 +2,7 @@
   "name": "app-minin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://profalbert.github.io/comboApp",
+  "homepage": "http://albert-hosting.ru/comboApp",
   "proxy": "https://www.binance.com",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
